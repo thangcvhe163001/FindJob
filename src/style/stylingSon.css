@@ -1,0 +1,372 @@
+.Header,
+.Footer {
+    background-color: #f4f4eb;
+}
+
+.Footer {
+    height: 70px !important;
+    width: 100%;
+}
+
+.Active-nav,
+.InActive-nav {
+    display: inline-block;
+    color: #4b4b4b;
+    padding: 15px 30px !important;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.Active-nav {
+    font-weight: 900;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Banner {
+    padding: 0 !important;
+}
+
+.JobList {
+    padding: 0 !important;
+    margin: 0 auto !important
+}
+
+.JobListHeader,
+.RecruiterListHeader {
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.JobListHeader h3,
+.RecruiterListHeader h3 {
+    width: 40%;
+    padding: 0 !important;
+}
+
+.RecruiterListHeader a,
+.JobListHeader a {
+    text-decoration: none;
+    width: 10%;
+}
+
+.JobListHeader h3,
+.RecruiterListHeader h3 {
+    color: rgb(102, 196, 52);
+    font-weight: bold;
+    margin-left: 25px !important;
+}
+
+.JobCardBox {
+    margin: 10px;
+    background-color: rgb(227, 227, 227);
+    min-height: 200px;
+    border-radius: 15px;
+    border: 1px solid rgb(172, 172, 172);
+    display: flex;
+}
+
+.JobCardBox img {
+    border-radius: 15px 0;
+    min-height: 200px;
+    height: 100%;
+}
+
+.JobCard {
+    padding: 0 !important;
+}
+
+.JobCardLeft {
+    margin-right: 10px;
+    height: 215px;
+}
+
+.JobCardRight p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: rgb(84, 84, 84);
+    margin-bottom: 3px;
+}
+
+.recruiterItem,
+.recruiterContentLeft {
+    border: 1px solid rgb(73, 73, 73);
+    padding: 0 !important;
+    border-right: 1px solid rgb(73, 73, 73);
+}
+
+.recruiterContent {
+    padding: 0 !important;
+    margin: 0 auto !important;
+}
+
+.recruiterContentLeft {
+    height: 270px;
+
+}
+
+.recruiterContentLeft img {
+    height: 100%;
+}
+
+.recruiterContent {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px !important;
+}
+
+.Avatar {
+
+    text-align: center;
+}
+
+.Avatar img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border: #4b4b4b 1px solid;
+    margin: 30px 0;
+}
+
+.Avatar a {
+    font-size: 150%;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.mock {
+    height: 100px;
+    background-color: #f4f4eb;
+}
+
+.UserInfo {
+    padding: 50px;
+}
+
+.UserInfoWrapper {
+    margin: 0 auto;
+}
+
+.UserInfoWrapper h3 {
+    display: inline-block;
+}
+
+.Cv p {
+    text-decoration: wavy;
+}
+
+.UserInfoWrapper input,
+textarea {
+    width: 60%;
+
+}
+
+.UserInfoInput {
+
+    border: none !important;
+    outline: none;
+    font-size: 150%;
+}
+
+.UserInfoInputEdit {
+    border: none !important;
+    border-bottom: 1px solid rgb(146, 211, 94) !important;
+    outline: none;
+    font-size: 150%;
+}
+
+.UserInfoWrapper textarea {
+    height: 100px;
+    margin-left: 30px;
+    border-style: none;
+    border-color: Transparent;
+    overflow: auto;
+    resize: vertical;
+}
+
+.Introduction {
+    display: flex;
+    align-items: center;
+}
+
+.InputField {
+    margin: 15px 0;
+}
+
+.InputField p {
+    display: inline-block;
+    font-size: 150%;
+    margin-left: 135px;
+}
+
+.EditProfileButton button {
+    margin-top: 20px;
+    padding: 10px 25px;
+    color: white;
+    background-color: #92d35e;
+    border-radius: 10px;
+}
+
+.searchBar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.searchBar input {
+    margin: 10px 0;
+    width: 30%;
+    outline: 2px solid #92D35E;
+    border-radius: 15px 0 0 15px;
+    height: 30px;
+}
+
+.searchBar button {
+    padding: 5px 10px;
+    background-color: #92D35E;
+    color: white;
+    border-radius: 0 15px 15px 0;
+    border: none;
+}
+
+.proceedLink {
+    text-decoration: none !important;
+}
+
+.Applications {
+    background-color: #ededde;
+    height: 140px;
+    margin: 20px auto;
+    padding: 0 !important;
+    border-radius: 25px;
+    border: 1px solid #8a8a8a;
+    display: flex;
+    color: #757575;
+
+}
+
+.ApplicantImg {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 25px 0 0 25px;
+}
+
+.applicantInfo {
+    padding: 5px 15px;
+}
+
+.field a:hover {
+    font-weight: 400;
+    color: rgb(100, 214, 214) !important;
+}
+
+.ApplicantImgProceed {
+    height: 227px;
+    margin: 30px 0 !important;
+}
+
+#ProceedApplicantImg {
+    width: 15%;
+    border-radius: 50%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.ApplicantInfo {
+    width: 40% !important;
+    text-align: left;
+    margin: 0 auto !important;
+}
+
+.Wrapper {
+    text-align: center;
+}
+
+.Action {
+    margin: 100px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.Action button {
+    width: 15%;
+    margin: 15px;
+    padding: 5px 0;
+    border-radius: 25px;
+}
+
+.Action button:first-child {
+    background-color: #9fd573;
+    color: white;
+}
+
+.Action button:nth-child(2) {
+    background-color: #ac3116;
+    color: white;
+}
+
+.pendingJob {
+    color: #d4cf3b !important;
+    
+}
+.JobLink{
+    text-decoration: none;
+}
+.RejectedJob {
+    color: #ec4b23 !important;
+   
+}
+
+.ActiveJob {
+    color: #65c940 !important;
+   
+}
+.CloseJob{
+    color: #797777 !important;
+ 
+}
+.pendingJobsTable{
+    width: 90% !important;
+    margin: 0 auto;
+}
+.pendingJobsTable button{
+    margin: 5px;
+}
+.MessageBoxWrapper{
+    text-align: right;
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+}
+#MessageBox{
+    height: 300px;
+    width: 300px;
+    background-color: #f4f4eb;
+    box-shadow: 7px 7px rgb(191, 191, 191) ;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+.sendTo{
+    margin: 10px auto !important;
+    text-align: left !important;
+}
+.InboxSideBar button{
+    background-color: inherit;
+    color: black;
+    padding: 20px 0;
+    border: none;
+    border-radius: 0;
+}
+.active{
+    background-color: white !important;
+    color: rgb(20, 245, 24) !important;
+
+}

@@ -1,0 +1,426 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "FsoftHoaLac@gmail.com",
+      "password": "12345",
+      "imgPath": "https://inkythuatso.com/uploads/thumbnails/800/2021/11/logo-fpt-inkythuatso-1-01-01-14-33-35.jpg",
+      "phone": "0512989008",
+      "address": "Thái Hoà, Thạch Thất, Hà Nội",
+      "Introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "fieldOfExpertise": 1,
+      "RoleId": 2,
+      "BanStatus": 0,
+      "Name": "Công ty TNHH Phần mềm Fpt Fsoft",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": -1
+    },
+    {
+      "id": 2,
+      "email": "ViettelSoftwareService@gmail.com",
+      "password": "12345",
+      "imgPath": "https://s3.ap-southeast-1.amazonaws.com/images-storage.jobstack.vn/4bdf9b77-ce27-4aeb-9767-e6c2325ba098.jpg",
+      "phone": "0965651643",
+      "address": "80 Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+      "Introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "fieldOfExpertise": 1,
+      "RoleId": 2,
+      "BanStatus": 0,
+      "Name": "Viettel Software Service",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": -1
+    },
+    {
+      "email": "chuquyson4@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "phone": "0363938085",
+      "address": "167 phùng khắc khoan, sơn tây",
+      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
+      "fieldOfExpertise": 2,
+      "RoleId": 1,
+      "BanStatus": 0,
+      "Name": "chu quy son",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": "5",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "email": "nguyenvanquy@gmail.com",
+      "password": "12345",
+      "imgPath": "https://www.ctvnews.ca/polopoly_fs/1.4692721.1574189694!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "phone": "0946110893",
+      "address": "Sơn Tây, Hà Nội",
+      "Introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "fieldOfExpertise": 1,
+      "RoleId": 1,
+      "BanStatus": 0,
+      "Name": "Nguyễn Văn Quý",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": 2
+    },
+    {
+      "id": 5,
+      "email": "ChaiLease@gmail.com",
+      "password": "12345",
+      "imgPath": "https://ebill.chailease.com.vn/images/logo-sub.png",
+      "phone": "0512989008",
+      "address": "Phạm Hùng, Mễ Trì Hạ, Từ Liêm, Hà Nội",
+      "Introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "fieldOfExpertise": 1,
+      "RoleId": 2,
+      "BanStatus": 0,
+      "Name": "Công Ty Cho Thuê Tài Chính Tnhh Mtv Quốc Tế Chailease",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": -1
+    },
+    {
+      "Name": "chu quy son",
+      "password": "12345",
+      "email": "chuquyson5@gmail.com",
+      "phone": "0363938085",
+      "address": "ha noi",
+      "roleId": "1",
+      "FieldOfExpertise": "1",
+      "BanStatus": 0,
+      "id": 6
+    },
+    {
+      "email": "chuquyson7@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "phone": "0363938085",
+      "address": "167 phùng khắc khoan, sơn tây",
+      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
+      "fieldOfExpertise": 2,
+      "RoleId": 1,
+      "BanStatus": 0,
+      "Name": "chu quy son",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": "4",
+      "id": 7
+    },
+    {
+      "email": "chuquyson8@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "phone": "0363938085",
+      "address": "167 phùng khắc khoan, sơn tây",
+      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
+      "fieldOfExpertise": 2,
+      "RoleId": 1,
+      "BanStatus": 0,
+      "Name": "chu quy son",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": "4",
+      "id": 8
+    },
+    {
+      "email": "chuquyson9@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "phone": "0363938085",
+      "address": "167 phùng khắc khoan, sơn tây",
+      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
+      "fieldOfExpertise": 2,
+      "RoleId": 1,
+      "BanStatus": 0,
+      "Name": "chu quy son",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": "4",
+      "id": 9
+    },
+    {
+      "email": "chuquyson10@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "phone": "0363938085",
+      "address": "167 phùng khắc khoan, sơn tây",
+      "Introduction": "Make sure you have followed the necessary steps to integrate the toast notification library properly into your application. Double-check the documentation of the specific toast library you are using for detailed instructions on how to set it up correctly.",
+      "fieldOfExpertise": -1,
+      "RoleId": 3,
+      "BanStatus": 0,
+      "Name": "chu quy son",
+      "OnlineCv": "http://sample.net/donkey#sea",
+      "Experience": "-1",
+      "id": 10
+    }
+  ],
+  "BanStatus": [
+    {
+      "id": 0,
+      "StatusText": "Banned"
+    },
+    {
+      "id": 1,
+      "StatusText": "Not Banned"
+    }
+  ],
+  "Role": [
+    {
+      "id": 1,
+      "RoleText": "Candidate"
+    },
+    {
+      "id": 2,
+      "RoleText": "Company"
+    },
+    {
+      "id": 3,
+      "RoleText": "Admin"
+    }
+  ],
+  "Admin": [
+    {
+      "id": 1,
+      "email": "TrinhDinhNghia@gmail.com",
+      "password": "12345",
+      "imgPath": "https://i.ytimg.com/vi/Zr-qM5Vrd0g/maxresdefault.jpg",
+      "DisplayName": "Trịnh Đình Nghĩa"
+    }
+  ],
+  "AppStatus": [
+    {
+      "id": 0,
+      "StatusText": "pending"
+    },
+    {
+      "id": 1,
+      "StatusText": "rejected"
+    },
+    {
+      "id": 2,
+      "StatusText": "accepted"
+    }
+  ],
+  "JobPost": [
+    {
+      "id": 1,
+      "JobName": "Java Web BackEnd",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 5,
+      "PostDate": "2023-06-02",
+      "EndDate": "2023-07-02",
+      "UserId": 2,
+      "Cid": 2,
+      "Status": 2
+    },
+    {
+      "id": 2,
+      "JobName": "Networking Engineer",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 5,
+      "PostDate": "2023-05-20",
+      "EndDate": "2023-08-01",
+      "UserId": 2,
+      "Cid": 2,
+      "Status": 1
+    },
+    {
+      "id": 3,
+      "JobName": "Front end ReactJS developer",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 3,
+      "PostDate": "2023-05-20",
+      "EndDate": "2023-06-30",
+      "UserId": 1,
+      "Cid": 3,
+      "Status": 3
+    },
+    {
+      "id": 4,
+      "JobName": "PHP BackEnd",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 5,
+      "PostDate": "2023-06-02",
+      "EndDate": "2023-07-02",
+      "UserId": 2,
+      "Cid": 1,
+      "Status": 3
+    },
+    {
+      "id": 5,
+      "JobName": "React Native Frontend Dev",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 5,
+      "PostDate": "2023-06-02",
+      "EndDate": "2023-07-02",
+      "UserId": 5,
+      "Cid": 1,
+      "Status": 3
+    },
+    {
+      "id": 6,
+      "JobName": "Mobile Game Project",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 5,
+      "PostDate": "2023-06-02",
+      "EndDate": "2023-06-05",
+      "UserId": 2,
+      "Cid": 4,
+      "Status": 4
+    },
+    {
+      "id": 7,
+      "JobName": "Nodejs Teacher",
+      "JobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat suscipit nisl id tincidunt. Aenean id pretium dolor. Suspendisse potenti. Etiam pretium massa at iaculis ornare. Duis rutrum eros vel massa condimentum imperdiet. In hac habitasse platea dictumst. Mauris eu risus quis ante rutrum dapibus sit amet non turpis. Integer in justo luctus, finibus arcu ut, tincidunt felis.",
+      "RecuitmentGoal": 1,
+      "PostDate": "2023-07-03",
+      "EndDate": "2023-10-03",
+      "UserId": 1,
+      "Cid": 6,
+      "Status": 1
+    },
+    {
+      "JobName": "mechungme",
+      "JobDescription": "mechungmemechungmemechungmemechungmemechungmemechungmemechungme",
+      "RecuitmentGoal": "3",
+      "PostDate": "2023-07-03",
+      "EndDate": "2023-07-21",
+      "UserId": 5,
+      "Cid": 2,
+      "status": 0,
+      "id": 8
+    }
+  ],
+  "JobStatus": [
+    {
+      "id": 1,
+      "text": "pending"
+    },
+    {
+      "id": 2,
+      "text": "rejected"
+    },
+    {
+      "id": 3,
+      "text": "active"
+    },
+    {
+      "id": 4,
+      "text": "closed"
+    }
+  ],
+  "Application": [
+    {
+      "id": 1,
+      "JobId": 4,
+      "UserId": 3,
+      "ApplyDate": "2023-06-27",
+      "Status": 2
+    },
+    {
+      "id": 2,
+      "JobId": 4,
+      "UserId": 4,
+      "ApplyDate": "2023-05-22",
+      "Status": 0
+    },
+    {
+      "id": 2,
+      "JobId": 4,
+      "UserId": 7,
+      "ApplyDate": "2023-05-30",
+      "Status": 0
+    },
+    {
+      "id": 4,
+      "JobId": 3,
+      "UserId": 3,
+      "ApplyDate": "2023-06-30",
+      "Status": 1
+    },
+    {
+      "id": 5,
+      "JobId": 3,
+      "UserId": 4,
+      "ApplyDate": "2023-06-30",
+      "Status": 0
+    },
+    {
+      "id": 6,
+      "JobId": 5,
+      "UserId": 3,
+      "ApplyDate": "2023-06-30",
+      "Status": 0
+    },
+    {
+      "id": 7,
+      "JobId": 7,
+      "UserId": 3,
+      "ApplyDate": "2023-07-14",
+      "Status": 0
+    },
+    {
+      "id": 8,
+      "JobId": 1,
+      "UserId": 3,
+      "ApplyDate": "2023-07-15",
+      "Status": 0
+    }
+  ],
+  "Message": [
+    {
+      "id": 1,
+      "senderId": 3,
+      "receiverId": 2,
+      "content": "mmg",
+      "sentDate": "2023-07-16"
+    },
+    {
+      "id": 2,
+      "senderId": 2,
+      "receiverId": 2,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet sapien viverra, egestas leo vitae, auctor felis. Etiam sapien elit, interdum egestas ullamcorper in, dictum sed sem. In eleifend varius condimentum. Sed in orci quis velit auctor placerat. Sed enim ante, elementum ac varius interdum, dapibus ut felis. Nam gravida tristique metus, ultrices malesuada leo sodales eu. Morbi sit amet lobortis tortor, quis eleifend diam. Fusce eget nunc fringilla nisi viverra porta quis non lacus. Etiam quis diam nibh.",
+      "sentDate": "2023-07-16"
+    },
+    {
+      "id": 3,
+      "senderId": 2,
+      "receiverId": 10,
+      "content": "toi nay gap nhau nhe em",
+      "sentDate": "2023-07-16"
+    }
+  ],
+  "Category": [
+    {
+      "Cid": 1,
+      "name": "Technology"
+    },
+    {
+      "Cid": 2,
+      "name": "Finance"
+    },
+    {
+      "Cid": 3,
+      "name": "Architecture"
+    },
+    {
+      "Cid": 4,
+      "name": "Entertainment"
+    },
+    {
+      "Cid": 5,
+      "name": "Social services"
+    },
+    {
+      "Cid": 6,
+      "name": "Education"
+    }
+  ],
+  "FieldOfExpertise": [
+    {
+      "id": 1,
+      "FieldOfExpertise": "Software Engineering"
+    },
+    {
+      "id": 2,
+      "FieldOfExpertise": "Digital Art Design"
+    },
+    {
+      "id": 3,
+      "FieldOfExpertise": "Artificial intelligence"
+    }
+  ]
+}
